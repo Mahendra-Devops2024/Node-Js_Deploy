@@ -11,7 +11,7 @@ git clone https://github.com/verma-kunal/AWS-Session.git
 DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
-
+##### If you have any payment gateways
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
 ```
